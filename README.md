@@ -64,6 +64,8 @@ RegisterNumber: 212223240116
 ![exp3 waveform sim](https://github.com/user-attachments/assets/ab9054b8-7a26-42e5-a866-2ddf715e202e)
 
 **Truth Table**
+
+
 ![image](https://github.com/user-attachments/assets/f8ab0420-6e66-4438-984b-f0df3654f690)
 
 
