@@ -64,17 +64,8 @@ RegisterNumber: 212223240116
 ![exp3 waveform sim](https://github.com/user-attachments/assets/ab9054b8-7a26-42e5-a866-2ddf715e202e)
 
 **Truth Table**
+![image](https://github.com/user-attachments/assets/f8ab0420-6e66-4438-984b-f0df3654f690)
 
-
-**Half Adder**
-
-
-![image](https://github.com/user-attachments/assets/d0ff7cb0-a420-4c59-984e-794e41a1a4cc)
-
-**Half Subtractor**
-
-
-![image](https://github.com/user-attachments/assets/d160a73a-24af-466f-a352-b953ca0b1085)
 
 **Result:**
 Thus the design of a half adder and half subtractor circuit using Verilog programming had been successfully completed.
