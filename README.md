@@ -67,9 +67,13 @@ RegisterNumber: 212223240116
 
 
 **Half Adder**
+
+
 ![image](https://github.com/user-attachments/assets/d0ff7cb0-a420-4c59-984e-794e41a1a4cc)
 
 **Half Subtractor**
+
+
 ![image](https://github.com/user-attachments/assets/d160a73a-24af-466f-a352-b953ca0b1085)
 
 **Result:**
